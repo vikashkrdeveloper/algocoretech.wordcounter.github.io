@@ -1,0 +1,41 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+ html,
+ body {
+
+     display: flex;
+     justify-content: center;
+     padding: 60px 40px;
+ }
+
+ h1 {
+     width: 600px;
+     background-color: #12309f;
+     text-align: center;
+     color: #ffffff;
+ }
+
+ #text-box {
+     width: 599px;
+     height: 400px;
+     outline: none;
+ }
+
+ .text-area {
+    background-color: #12309f;
+     width: 600px;
+     height: 60px;
+     display: flex;
+     align-items: center;
+     font-size: 20px;
+     color: #ffffff;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+ span{
+    margin: 10px;
+ }
